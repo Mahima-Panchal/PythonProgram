@@ -19,6 +19,8 @@
 
 =====================  Simple Pyramid Pattern  =====================
 
+--> This Program is "Simple Pyramid Pattern".
+--> This program is print the pyramid pattern.
 
 --> You Enter The input Number integer Than print the Pyramind.
 --> Example:Enter the Number 5 Than Print The pyramins
