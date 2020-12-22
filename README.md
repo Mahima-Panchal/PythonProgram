@@ -21,9 +21,4 @@
 
 
 --> You Enter The input Number integer Than print the Pyramind.
---> Example:Enter the Number 5 Than Print The Pattern like
-*
-* *
-* * *
-* * * *
-* * * * *
+--> Example:Enter the Number 5 Than Print The pyramins
