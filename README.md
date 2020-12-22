@@ -1,8 +1,9 @@
 # PythonProgram
-Hello, I am Mahima Panchal. 
-This Repository is "PythonProgram".
-This is only for the beginner and practice for small programs.
-There is only Python Programs.
+
+--> Hello, I am Mahima Panchal. 
+--> This Repository is "PythonProgram".
+--> This is only for the beginner and practice for small programs.
+--> There is only Python Programs.
 
 
 =====================  Faulty Calculator  =====================
@@ -15,3 +16,14 @@ There is only Python Programs.
      45 * 3 = 555, 56+9=77, 56/6=4
 
 --> Your program should the operator and the two numbers as input from the  user and  then return the result.
+
+=====================  Simple Pyramid Pattern  =====================
+
+
+--> You Enter The input Number integer Than print the Pyramind.
+--> Example:Enter the Number 5 Than Print The Pattern like
+*
+* *
+* * *
+* * * *
+* * * * *
